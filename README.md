@@ -1,2 +1,2 @@
 # claim.io
-claim io test solution
+claim.io test solution
